@@ -25,7 +25,7 @@ To install the necessary dependencies, run:
 Starting the Service
 To start the service, run:
 ```bash
-  npm run dev
+  npm run start
 ```
 
 Running the tests
